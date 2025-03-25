@@ -12,4 +12,4 @@
 
 7. Wap to count whitespaces
 
-8. Wap 
+8. Wap to check if the string is a predefined constant.
