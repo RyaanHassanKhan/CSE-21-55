@@ -1,0 +1,15 @@
+1. Wap to check if the entered string is a valid keyword or nor (rules to be given).
+
+2. Wap to check if the entered string is a valid integer constant or not (rules to be given).
+
+3. Wap to check if the entered string is a valid identifier or not. (rules to be given)
+
+4. Wap to tokenize a given string (rules to be given)
+
+5. Wap to count the number of lines in a given program
+
+6. Wap to lexically analyze an input file using flex.
+
+7. Wap to count whitespaces
+
+8. Wap 
